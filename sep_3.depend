@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1524003157 source:c:\users\user\desktop\cs\s1sem2\comp10050 - software engineering project\sep_3\disksandplayers.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"disksAndPlayers.h"
+
+1524525215 c:\users\user\desktop\cs\s1sem2\comp10050 - software engineering project\sep_3\disksandplayers.h
+
+1524525418 source:c:\users\user\desktop\cs\s1sem2\comp10050 - software engineering project\sep_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"disksAndPlayers.h"
+	"globalVariables.h"
+
+1524525234 c:\users\user\desktop\cs\s1sem2\comp10050 - software engineering project\sep_3\globalvariables.h
+
+1524525357 source:c:\users\user\desktop\cs\s1sem2\comp10050 - software engineering project\sep_3\printresult.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"disksAndPlayers.h"
+	"globalVariables.h"
+
+1524523242 source:c:\users\user\desktop\cs\s1sem2\comp10050 - software engineering project\sep_3\diskflipping.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"disksAndPlayers.h"
+	"globalVariables.h"
+
+1524525289 source:c:\users\user\desktop\cs\s1sem2\comp10050 - software engineering project\sep_3\computemoves.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"disksAndPlayers.h"
+	"globalVariables.h"
+
+1524524972 source:c:\users\user\desktop\cs\s1sem2\comp10050 - software engineering project\sep_3\askplayer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"disksAndPlayers.h"
+	"globalVariables.h"
+
